@@ -3,7 +3,7 @@ java ile nmap kullanımı
 
 Proje netbeans ile geliştirilmiştir
 
-#nmapKonsolIslemleri 
+# nmapKonsolIslemleri 
 projede esas işlemleri yapan metod
 JSPNmap/src/java/kali/Nmap.java sınıfındadır
 
