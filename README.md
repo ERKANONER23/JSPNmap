@@ -10,3 +10,4 @@ JSPNmap/src/java/kali/Nmap.java sınıfındadır
 Bu metod arkaplanda konsolu çaluştırır
 Parametre olarak aldığı değeri konsolda nmap ile çalıştırır
 
+Proje için gerekli döküman https://dessaskod.wordpress.com/2020/02/08/java-ve-nmap-kullanarak-port-taramasi-yapma/
